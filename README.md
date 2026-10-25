@@ -12,10 +12,10 @@ The archive unpacks to `gauntlet-submission/`, with `submission.json` at its roo
 
 ## Checksum
 
-SHA-256 of `scout-am7-submission.tar.gz` (built from source commit `2f78ad9`):
+SHA-256 of `scout-am7-submission.tar.gz` (built from source commit `7134feb`):
 
 ```
-91ecc2e579fe8cacb2cc7727d738d7322ea96e17efa668df488cdef885d3b490
+203e02657565ff48364fe05001ba444422493b1956afd955a494d45b8b369dea
 ```
 
 ## Verify
